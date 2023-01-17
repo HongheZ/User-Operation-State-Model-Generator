@@ -25,7 +25,11 @@ UserBehaviorDotFile.dot.pdf(The result state model), UserBehaviorDotFile.dot and
 
 ## Contribution
 Honghe Zhou
+
 Lin Deng
+
 Weifeng Xu
+
 Josh Dehlinger
+
 Suranjan Chakraborty
