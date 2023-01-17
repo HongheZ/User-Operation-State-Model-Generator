@@ -10,11 +10,12 @@ Clone this project with:
 
 ## Usage
 You can just click the User_Operation_State_Model_Generator.exe to execute the tool. 
+
 Or use the command lines below:
 ```User_Operation_State_Model_Generator```
+![image](https://github.com/HongheZ/ImageFile/blob/main/User-Operation-State-Model-Generator/Command_Screenshot.png)
 
+In this sample, we use the espresso log file as an example. When you execute the exe file, please make sure the two files are in the same directory.
 
-
-
-In this sample, we use the espresso log file as an example. 
-When you execute the exe file, please make sure the two files are in the same directory.
+After the tool is successfully executed, three new files will be generated under the current folder:UserBehaviorDotFile.dot.pdf(The result state model), UserBehaviorDotFile.dot and statemodel.json.
+![image](https://github.com/HongheZ/ImageFile/blob/main/User-Operation-State-Model-Generator/New_File_Generated.png)
