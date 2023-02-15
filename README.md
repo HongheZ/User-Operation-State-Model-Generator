@@ -1,7 +1,7 @@
 # User-Operation-State-Model-Generator
 
 ## About
-This is a sample of the tool we create in the research of "Automatic Generation of An Android User Operation State Model for Digital Forensics Analysis". We use this tool to construct state models based on Android event log for digital forensics investigators.
+This is a tool we create in the research of "Automatic Generation of An Android User Operation State Model for Digital Forensics Analysis". We use this tool to construct state models based on Android event log for digital forensics investigators.
 
 ## Installation
 Clone this project with:
