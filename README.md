@@ -1,7 +1,7 @@
 # User Operation State Model Generator
 
 ## About
-This is a tool we create in the research of "Automatic Generation of An Android User Operation State Model for Digital Forensics Analysis". We use this tool to construct state models based on Android event log for digital forensics investigators. 
+This is a tool we create in the research of "Automatic Generation of an Android User Operation State Model for Digital Forensics Analysis." We use this tool to construct state models based on Android event logs for digital forensics investigators. 
 
 
 
@@ -21,7 +21,7 @@ In this sample, we use the espresso log file as an example. When you execute the
 
 After the tool is successfully executed, three new files will be generated under the current folder: 
 
-UserBehaviorDotFile.dot.pdf(The result state model), UserBehaviorDotFile.dot and statemodel.json.
+UserBehaviorDotFile.dot.pdf(The result state model), UserBehaviorDotFile.dot, and statemodel.json.
 
 ![image](https://github.com/HongheZ/ImageFile/blob/main/User-Operation-State-Model-Generator/New_File_Generated.png)
 
