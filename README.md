@@ -25,6 +25,20 @@ UserBehaviorDotFile.dot.pdf(The result state model), UserBehaviorDotFile.dot and
 
 ![image](https://github.com/HongheZ/ImageFile/blob/main/User-Operation-State-Model-Generator/New_File_Generated.png)
 
+## Citing Our Work
+```
+@inproceedings{zhou2023reconstructing,
+  title={Reconstructing Android User Behavior through Timestamped State Models},
+  author={Zhou, Honghe and Nguyen, Phuong Dinh and Deng, Lin and Xu, Weifeng and Dehlinger, Josh and Chakraborty, Suranjan},
+  booktitle={2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)},
+  pages={574--585},
+  year={2023},
+  organization={IEEE}
+}
+```
+
+
+
 ## Supported By
 <!-- Honghe Zhou
 
